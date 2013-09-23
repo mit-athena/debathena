@@ -1,0 +1,480 @@
+[submodule "athena/aclocal"]
+	path = athena/aclocal
+	url = ../aclocal.git
+[submodule "athena/athdir"]
+	path = athena/athdir
+	url = ../athdir.git
+[submodule "athena/athinfo"]
+	path = athena/athinfo
+	url = ../athinfo.git
+[submodule "athena/athinfod"]
+	path = athena/athinfod
+	url = ../athinfod.git
+[submodule "athena/athrun"]
+	path = athena/athrun
+	url = ../athrun.git
+[submodule "athena/attach"]
+	path = athena/attach
+	url = ../attach.git
+[submodule "athena/authwatch"]
+	path = athena/authwatch
+	url = ../authwatch.git
+[submodule "athena/bugme"]
+	path = athena/bugme
+	url = ../bugme.git
+[submodule "athena/counterlog"]
+	path = athena/counterlog
+	url = ../counterlog.git
+[submodule "athena/cviewd"]
+	path = athena/cviewd
+	url = ../cviewd.git
+[submodule "athena/delete"]
+	path = athena/delete
+	url = ../delete.git
+[submodule "athena/desync"]
+	path = athena/desync
+	url = ../desync.git
+[submodule "athena/discuss"]
+	path = athena/discuss
+	url = ../discuss.git
+[submodule "athena/discuss-ng"]
+	path = athena/discuss-ng
+	url = ../discuss-ng.git
+[submodule "athena/get_message"]
+	path = athena/get_message
+	url = ../get_message.git
+[submodule "athena/grenew"]
+	path = athena/grenew
+	url = ../grenew.git
+[submodule "athena/hostinfo"]
+	path = athena/hostinfo
+	url = ../hostinfo.git
+[submodule "athena/larvnet"]
+	path = athena/larvnet
+	url = ../larvnet.git
+[submodule "athena/lert"]
+	path = athena/lert
+	url = ../lert.git
+[submodule "athena/libXj"]
+	path = athena/libXj
+	url = ../libXj.git
+[submodule "athena/libathdir"]
+	path = athena/libathdir
+	url = ../libathdir.git
+[submodule "athena/libhesiod"]
+	path = athena/libhesiod
+	url = ../libhesiod.git
+[submodule "athena/liblocker"]
+	path = athena/liblocker
+	url = ../liblocker.git
+[submodule "athena/libnss-afspag"]
+	path = athena/libnss-afspag
+	url = ../libnss-afspag.git
+[submodule "athena/libnss-nonlocal"]
+	path = athena/libnss-nonlocal
+	url = ../libnss-nonlocal.git
+[submodule "athena/libpam-athena-locker"]
+	path = athena/libpam-athena-locker
+	url = ../libpam-athena-locker.git
+[submodule "athena/libpam-debathena-home-type"]
+	path = athena/libpam-debathena-home-type
+	url = ../libpam-debathena-home-type.git
+[submodule "athena/libpam-mktemp"]
+	path = athena/libpam-mktemp
+	url = ../libpam-mktemp.git
+[submodule "athena/locker-menu"]
+	path = athena/locker-menu
+	url = ../locker-menu.git
+[submodule "athena/machtype"]
+	path = athena/machtype
+	url = ../machtype.git
+[submodule "athena/messaged"]
+	path = athena/messaged
+	url = ../messaged.git
+[submodule "athena/mitmailutils"]
+	path = athena/mitmailutils
+	url = ../mitmailutils.git
+[submodule "athena/moira-gui"]
+	path = athena/moira-gui
+	url = ../moira-gui.git
+[submodule "athena/nautilus-afs"]
+	path = athena/nautilus-afs
+	url = ../nautilus-afs.git
+[submodule "athena/olc"]
+	path = athena/olc
+	url = ../olc.git
+[submodule "athena/pharos-support"]
+	path = athena/pharos-support
+	url = ../pharos-support.git
+[submodule "athena/pidgin-wrapper"]
+	path = athena/pidgin-wrapper
+	url = ../pidgin-wrapper.git
+[submodule "athena/pyhesiodfs"]
+	path = athena/pyhesiodfs
+	url = ../pyhesiodfs.git
+[submodule "athena/python-afs"]
+	path = athena/python-afs
+	url = ../python-afs.git
+[submodule "athena/python-discuss"]
+	path = athena/python-discuss
+	url = ../python-discuss.git
+[submodule "athena/python-hesiod"]
+	path = athena/python-hesiod
+	url = ../python-hesiod.git
+[submodule "athena/python-moira"]
+	path = athena/python-moira
+	url = ../python-moira.git
+[submodule "athena/quota"]
+	path = athena/quota
+	url = ../quota.git
+[submodule "athena/saferm"]
+	path = athena/saferm
+	url = ../saferm.git
+[submodule "athena/sendbug"]
+	path = athena/sendbug
+	url = ../sendbug.git
+[submodule "athena/ssl-certificates"]
+	path = athena/ssl-certificates
+	url = ../ssl-certificates.git
+[submodule "athena/syncupdate"]
+	path = athena/syncupdate
+	url = ../syncupdate.git
+[submodule "athena/tellme"]
+	path = athena/tellme
+	url = ../tellme.git
+[submodule "athena/tex-extras"]
+	path = athena/tex-extras
+	url = ../tex-extras.git
+[submodule "athena/tmp-cleaner"]
+	path = athena/tmp-cleaner
+	url = ../tmp-cleaner.git
+[submodule "athena/xcluster"]
+	path = athena/xcluster
+	url = ../xcluster.git
+[submodule "athena/xdsc"]
+	path = athena/xdsc
+	url = ../xdsc.git
+[submodule "athena/xlock"]
+	path = athena/xlock
+	url = ../xlock.git
+[submodule "debathena/afs-config"]
+	path = debathena/afs-config
+	url = ../afs-config.git
+[submodule "debathena/alpine-config"]
+	path = debathena/alpine-config
+	url = ../alpine-config.git
+[submodule "debathena/apparmor-config"]
+	path = debathena/apparmor-config
+	url = ../apparmor-config.git
+[submodule "debathena/archive-keyring"]
+	path = debathena/archive-keyring
+	url = ../archive-keyring.git
+[submodule "debathena/athinfod-cluster-config"]
+	path = debathena/athinfod-cluster-config
+	url = ../athinfod-cluster-config.git
+[submodule "debathena/auto-update"]
+	path = debathena/auto-update
+	url = ../auto-update.git
+[submodule "debathena/base"]
+	path = debathena/base
+	url = ../base.git
+[submodule "debathena/chromium-config"]
+	path = debathena/chromium-config
+	url = ../chromium-config.git
+[submodule "debathena/chrony-config"]
+	path = debathena/chrony-config
+	url = ../chrony-config.git
+[submodule "debathena/cluster-cups-config"]
+	path = debathena/cluster-cups-config
+	url = ../cluster-cups-config.git
+[submodule "debathena/cluster-login-config"]
+	path = debathena/cluster-login-config
+	url = ../cluster-login-config.git
+[submodule "debathena/clusterinfo"]
+	path = debathena/clusterinfo
+	url = ../clusterinfo.git
+[submodule "debathena/command-not-found"]
+	path = debathena/command-not-found
+	url = ../command-not-found.git
+[submodule "debathena/config-package-dev"]
+	path = debathena/config-package-dev
+	url = ../config-package-dev.git
+[submodule "debathena/cupsys-config"]
+	path = debathena/cupsys-config
+	url = ../cupsys-config.git
+[submodule "debathena/debathena-athena-libraries"]
+	path = debathena/debathena-athena-libraries
+	url = ../debathena-athena-libraries.git
+[submodule "debathena/debathena-build-depends"]
+	path = debathena/debathena-build-depends
+	url = ../debathena-build-depends.git
+[submodule "debathena/debathena-clients"]
+	path = debathena/debathena-clients
+	url = ../debathena-clients.git
+[submodule "debathena/debathena-cluster"]
+	path = debathena/debathena-cluster
+	url = ../debathena-cluster.git
+[submodule "debathena/debathena-common"]
+	path = debathena/debathena-common
+	url = ../debathena-common.git
+[submodule "debathena/debathena-cups"]
+	path = debathena/debathena-cups
+	url = ../debathena-cups.git
+[submodule "debathena/debathena-debian-dev"]
+	path = debathena/debathena-debian-dev
+	url = ../debathena-debian-dev.git
+[submodule "debathena/debathena-extra-software"]
+	path = debathena/debathena-extra-software
+	url = ../debathena-extra-software.git
+[submodule "debathena/debathena-extra-software-nox"]
+	path = debathena/debathena-extra-software-nox
+	url = ../debathena-extra-software-nox.git
+[submodule "debathena/debathena-gdm"]
+	path = debathena/debathena-gdm
+	url = ../debathena-gdm.git
+[submodule "debathena/debathena-language-support"]
+	path = debathena/debathena-language-support
+	url = ../debathena-language-support.git
+[submodule "debathena/debathena-libreadline"]
+	path = debathena/debathena-libreadline
+	url = ../debathena-libreadline.git
+[submodule "debathena/debathena-libss"]
+	path = debathena/debathena-libss
+	url = ../debathena-libss.git
+[submodule "debathena/debathena-live"]
+	path = debathena/debathena-live
+	url = ../debathena-live.git
+[submodule "debathena/debathena-locker"]
+	path = debathena/debathena-locker
+	url = ../debathena-locker.git
+[submodule "debathena/debathena-login"]
+	path = debathena/debathena-login
+	url = ../debathena-login.git
+[submodule "debathena/debathena-login-graphical"]
+	path = debathena/debathena-login-graphical
+	url = ../debathena-login-graphical.git
+[submodule "debathena/debathena-maybe-apparmor"]
+	path = debathena/debathena-maybe-apparmor
+	url = ../debathena-maybe-apparmor.git
+[submodule "debathena/debathena-maybe-krb4-config"]
+	path = debathena/debathena-maybe-krb4-config
+	url = ../debathena-maybe-krb4-config.git
+[submodule "debathena/debathena-maybe-ubufox"]
+	path = debathena/debathena-maybe-ubufox
+	url = ../debathena-maybe-ubufox.git
+[submodule "debathena/debathena-mit-automounter"]
+	path = debathena/debathena-mit-automounter
+	url = ../debathena-mit-automounter.git
+[submodule "debathena/debathena-ssh-client"]
+	path = debathena/debathena-ssh-client
+	url = ../debathena-ssh-client.git
+[submodule "debathena/debathena-ssh-server"]
+	path = debathena/debathena-ssh-server
+	url = ../debathena-ssh-server.git
+[submodule "debathena/debathena-standard"]
+	path = debathena/debathena-standard
+	url = ../debathena-standard.git
+[submodule "debathena/debathena-syslog"]
+	path = debathena/debathena-syslog
+	url = ../debathena-syslog.git
+[submodule "debathena/debathena-thirdparty"]
+	path = debathena/debathena-thirdparty
+	url = ../debathena-thirdparty.git
+[submodule "debathena/debathena-thirdparty-accessories"]
+	path = debathena/debathena-thirdparty-accessories
+	url = ../debathena-thirdparty-accessories.git
+[submodule "debathena/debathena-thirdparty-audio"]
+	path = debathena/debathena-thirdparty-audio
+	url = ../debathena-thirdparty-audio.git
+[submodule "debathena/debathena-thirdparty-communication"]
+	path = debathena/debathena-thirdparty-communication
+	url = ../debathena-thirdparty-communication.git
+[submodule "debathena/debathena-thirdparty-graphics"]
+	path = debathena/debathena-thirdparty-graphics
+	url = ../debathena-thirdparty-graphics.git
+[submodule "debathena/debathena-thirdparty-information"]
+	path = debathena/debathena-thirdparty-information
+	url = ../debathena-thirdparty-information.git
+[submodule "debathena/debathena-thirdparty-languages"]
+	path = debathena/debathena-thirdparty-languages
+	url = ../debathena-thirdparty-languages.git
+[submodule "debathena/debathena-thirdparty-libraries"]
+	path = debathena/debathena-thirdparty-libraries
+	url = ../debathena-thirdparty-libraries.git
+[submodule "debathena/debathena-thirdparty-numerical"]
+	path = debathena/debathena-thirdparty-numerical
+	url = ../debathena-thirdparty-numerical.git
+[submodule "debathena/debathena-thirdparty-programming"]
+	path = debathena/debathena-thirdparty-programming
+	url = ../debathena-thirdparty-programming.git
+[submodule "debathena/debathena-thirdparty-simulation"]
+	path = debathena/debathena-thirdparty-simulation
+	url = ../debathena-thirdparty-simulation.git
+[submodule "debathena/debathena-thirdparty-sound"]
+	path = debathena/debathena-thirdparty-sound
+	url = ../debathena-thirdparty-sound.git
+[submodule "debathena/debathena-thirdparty-text"]
+	path = debathena/debathena-thirdparty-text
+	url = ../debathena-thirdparty-text.git
+[submodule "debathena/debathena-thirdparty-utilities"]
+	path = debathena/debathena-thirdparty-utilities
+	url = ../debathena-thirdparty-utilities.git
+[submodule "debathena/debathena-workstation"]
+	path = debathena/debathena-workstation
+	url = ../debathena-workstation.git
+[submodule "debathena/dns-config"]
+	path = debathena/dns-config
+	url = ../dns-config.git
+[submodule "debathena/dotfiles"]
+	path = debathena/dotfiles
+	url = ../dotfiles.git
+[submodule "debathena/emacs-config"]
+	path = debathena/emacs-config
+	url = ../emacs-config.git
+[submodule "debathena/email-icon-config"]
+	path = debathena/email-icon-config
+	url = ../email-icon-config.git
+[submodule "debathena/evolution-wrapper"]
+	path = debathena/evolution-wrapper
+	url = ../evolution-wrapper.git
+[submodule "debathena/finger-config"]
+	path = debathena/finger-config
+	url = ../finger-config.git
+[submodule "debathena/fingerd-config"]
+	path = debathena/fingerd-config
+	url = ../fingerd-config.git
+[submodule "debathena/firefox-wrapper"]
+	path = debathena/firefox-wrapper
+	url = ../firefox-wrapper.git
+[submodule "debathena/from-config"]
+	path = debathena/from-config
+	url = ../from-config.git
+[submodule "debathena/gconf2-config"]
+	path = debathena/gconf2-config
+	url = ../gconf2-config.git
+[submodule "debathena/gconfd-2-wrapper"]
+	path = debathena/gconfd-2-wrapper
+	url = ../gconfd-2-wrapper.git
+[submodule "debathena/gdm-config"]
+	path = debathena/gdm-config
+	url = ../gdm-config.git
+[submodule "debathena/getcluster"]
+	path = debathena/getcluster
+	url = ../getcluster.git
+[submodule "debathena/hesiod-config"]
+	path = debathena/hesiod-config
+	url = ../hesiod-config.git
+[submodule "debathena/kerberos-config"]
+	path = debathena/kerberos-config
+	url = ../kerberos-config.git
+[submodule "debathena/kiosk"]
+	path = debathena/kiosk
+	url = ../kiosk.git
+[submodule "debathena/ldap-config"]
+	path = debathena/ldap-config
+	url = ../ldap-config.git
+[submodule "debathena/license-config"]
+	path = debathena/license-config
+	url = ../license-config.git
+[submodule "debathena/lightdm-config"]
+	path = debathena/lightdm-config
+	url = ../lightdm-config.git
+[submodule "debathena/lintian-config"]
+	path = debathena/lintian-config
+	url = ../lintian-config.git
+[submodule "debathena/lprng-config"]
+	path = debathena/lprng-config
+	url = ../lprng-config.git
+[submodule "debathena/metrics"]
+	path = debathena/metrics
+	url = ../metrics.git
+[submodule "debathena/misc-glue"]
+	path = debathena/misc-glue
+	url = ../misc-glue.git
+[submodule "debathena/moira-passwd-config"]
+	path = debathena/moira-passwd-config
+	url = ../moira-passwd-config.git
+[submodule "debathena/msmtp-config"]
+	path = debathena/msmtp-config
+	url = ../msmtp-config.git
+[submodule "debathena/mutt-config"]
+	path = debathena/mutt-config
+	url = ../mutt-config.git
+[submodule "debathena/network-manager-config"]
+	path = debathena/network-manager-config
+	url = ../network-manager-config.git
+[submodule "debathena/nmh-config"]
+	path = debathena/nmh-config
+	url = ../nmh-config.git
+[submodule "debathena/nsswitch-config"]
+	path = debathena/nsswitch-config
+	url = ../nsswitch-config.git
+[submodule "debathena/ntp-config"]
+	path = debathena/ntp-config
+	url = ../ntp-config.git
+[submodule "debathena/pam-config"]
+	path = debathena/pam-config
+	url = ../pam-config.git
+[submodule "debathena/plymouth-config"]
+	path = debathena/plymouth-config
+	url = ../plymouth-config.git
+[submodule "debathena/printing-config"]
+	path = debathena/printing-config
+	url = ../printing-config.git
+[submodule "debathena/quota-config"]
+	path = debathena/quota-config
+	url = ../quota-config.git
+[submodule "debathena/reactivate"]
+	path = debathena/reactivate
+	url = ../reactivate.git
+[submodule "debathena/recovery-mode-config"]
+	path = debathena/recovery-mode-config
+	url = ../recovery-mode-config.git
+[submodule "debathena/shell-config"]
+	path = debathena/shell-config
+	url = ../shell-config.git
+[submodule "debathena/ssh-client-config"]
+	path = debathena/ssh-client-config
+	url = ../ssh-client-config.git
+[submodule "debathena/ssh-server-config"]
+	path = debathena/ssh-server-config
+	url = ../ssh-server-config.git
+[submodule "debathena/syslog-config"]
+	path = debathena/syslog-config
+	url = ../syslog-config.git
+[submodule "debathena/tex-config"]
+	path = debathena/tex-config
+	url = ../tex-config.git
+[submodule "debathena/thunderbird-config"]
+	path = debathena/thunderbird-config
+	url = ../thunderbird-config.git
+[submodule "debathena/transcript-glue"]
+	path = debathena/transcript-glue
+	url = ../transcript-glue.git
+[submodule "debathena/upgrade-config"]
+	path = debathena/upgrade-config
+	url = ../upgrade-config.git
+[submodule "debathena/verify"]
+	path = debathena/verify
+	url = ../verify.git
+[submodule "debathena/xsession"]
+	path = debathena/xsession
+	url = ../xsession.git
+[submodule "debathena/zephyr-config"]
+	path = debathena/zephyr-config
+	url = ../zephyr-config.git
+[submodule "misc/manual-config"]
+	path = misc/manual-config
+	url = ../manual-config.git
+[submodule "misc/scripts"]
+	path = misc/scripts
+	url = ../scripts.git
+[submodule "third/lam"]
+	path = third/lam
+	url = ../lam.git
+[submodule "third/moira"]
+	path = third/moira
+	url = ../moira.git
+[submodule "third/rs"]
+	path = third/rs
+	url = ../rs.git
