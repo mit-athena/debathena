@@ -478,3 +478,6 @@
 [submodule "third/rs"]
 	path = third/rs
 	url = ../rs.git
+[submodule "debathena/ldso1-stub"]
+	path = debathena/ldso1-stub
+	url = ../ldso1-stub.git
