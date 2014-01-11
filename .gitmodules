@@ -481,3 +481,6 @@
 [submodule "debathena/ldso1-stub"]
 	path = debathena/ldso1-stub
 	url = ../ldso1-stub.git
+[submodule "athena/libgms"]
+	path = athena/libgms
+	url = ../libgms.git
