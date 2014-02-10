@@ -56,7 +56,7 @@
 	path = athena/lert
 	url = ../lert.git
 [submodule "athena/libXj"]
-	path = athena/libxj
+	path = athena/libXj
 	url = ../libXj.git
 [submodule "athena/libathdir"]
 	path = athena/libathdir
