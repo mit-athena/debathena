@@ -484,3 +484,6 @@
 [submodule "athena/libgms"]
 	path = athena/libgms
 	url = ../libgms.git
+[submodule "athena/locker-support"]
+	path = athena/locker-support
+	url = ../locker-support.git
