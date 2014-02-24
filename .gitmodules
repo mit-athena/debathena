@@ -25,9 +25,6 @@
 [submodule "athena/counterlog"]
 	path = athena/counterlog
 	url = ../counterlog.git
-[submodule "athena/cviewd"]
-	path = athena/cviewd
-	url = ../cviewd.git
 [submodule "athena/delete"]
 	path = athena/delete
 	url = ../delete.git
@@ -184,9 +181,6 @@
 [submodule "debathena/chrony-config"]
 	path = debathena/chrony-config
 	url = ../chrony-config.git
-[submodule "debathena/cluster-cups-config"]
-	path = debathena/cluster-cups-config
-	url = ../cluster-cups-config.git
 [submodule "debathena/cluster-login-config"]
 	path = debathena/cluster-login-config
 	url = ../cluster-login-config.git
@@ -215,7 +209,7 @@
 	path = debathena/debathena-cluster
 	url = ../debathena-cluster.git
 [submodule "debathena/debathena-common"]
-	path = debathena/debathena-common
+	path = misc/debathena-common
 	url = ../debathena-common.git
 [submodule "debathena/debathena-cups"]
 	path = debathena/debathena-cups
@@ -235,12 +229,6 @@
 [submodule "debathena/debathena-language-support"]
 	path = debathena/debathena-language-support
 	url = ../debathena-language-support.git
-[submodule "debathena/debathena-libreadline"]
-	path = debathena/debathena-libreadline
-	url = ../debathena-libreadline.git
-[submodule "debathena/debathena-libss"]
-	path = debathena/debathena-libss
-	url = ../debathena-libss.git
 [submodule "debathena/debathena-live"]
 	path = debathena/debathena-live
 	url = ../debathena-live.git
@@ -337,12 +325,6 @@
 [submodule "debathena/evolution-wrapper"]
 	path = debathena/evolution-wrapper
 	url = ../evolution-wrapper.git
-[submodule "debathena/finger-config"]
-	path = debathena/finger-config
-	url = ../finger-config.git
-[submodule "debathena/fingerd-config"]
-	path = debathena/fingerd-config
-	url = ../fingerd-config.git
 [submodule "debathena/firefox-wrapper"]
 	path = debathena/firefox-wrapper
 	url = ../firefox-wrapper.git
