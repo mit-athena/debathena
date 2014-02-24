@@ -232,12 +232,6 @@
 [submodule "debathena/debathena-language-support"]
 	path = debathena/debathena-language-support
 	url = ../debathena-language-support.git
-[submodule "debathena/debathena-libreadline"]
-	path = debathena/debathena-libreadline
-	url = ../debathena-libreadline.git
-[submodule "debathena/debathena-libss"]
-	path = debathena/debathena-libss
-	url = ../debathena-libss.git
 [submodule "debathena/debathena-live"]
 	path = debathena/debathena-live
 	url = ../debathena-live.git
