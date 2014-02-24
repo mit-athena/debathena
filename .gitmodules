@@ -212,7 +212,7 @@
 	path = debathena/debathena-cluster
 	url = ../debathena-cluster.git
 [submodule "debathena/debathena-common"]
-	path = debathena/debathena-common
+	path = misc/debathena-common
 	url = ../debathena-common.git
 [submodule "debathena/debathena-cups"]
 	path = debathena/debathena-cups
