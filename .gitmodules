@@ -181,9 +181,6 @@
 [submodule "debathena/chrony-config"]
 	path = debathena/chrony-config
 	url = ../chrony-config.git
-[submodule "debathena/cluster-cups-config"]
-	path = debathena/cluster-cups-config
-	url = ../cluster-cups-config.git
 [submodule "debathena/cluster-login-config"]
 	path = debathena/cluster-login-config
 	url = ../cluster-login-config.git
