@@ -187,9 +187,6 @@
 [submodule "debathena/clusterinfo"]
 	path = debathena/clusterinfo
 	url = ../clusterinfo.git
-[submodule "debathena/command-not-found"]
-	path = debathena/command-not-found
-	url = ../command-not-found.git
 [submodule "debathena/config-package-dev"]
 	path = debathena/config-package-dev
 	url = ../config-package-dev.git
