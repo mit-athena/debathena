@@ -325,12 +325,6 @@
 [submodule "debathena/evolution-wrapper"]
 	path = debathena/evolution-wrapper
 	url = ../evolution-wrapper.git
-[submodule "debathena/finger-config"]
-	path = debathena/finger-config
-	url = ../finger-config.git
-[submodule "debathena/fingerd-config"]
-	path = debathena/fingerd-config
-	url = ../fingerd-config.git
 [submodule "debathena/firefox-wrapper"]
 	path = debathena/firefox-wrapper
 	url = ../firefox-wrapper.git
