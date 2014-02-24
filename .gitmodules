@@ -25,9 +25,6 @@
 [submodule "athena/counterlog"]
 	path = athena/counterlog
 	url = ../counterlog.git
-[submodule "athena/cviewd"]
-	path = athena/cviewd
-	url = ../cviewd.git
 [submodule "athena/delete"]
 	path = athena/delete
 	url = ../delete.git
