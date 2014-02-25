@@ -226,9 +226,6 @@
 [submodule "debathena/debathena-language-support"]
 	path = debathena/debathena-language-support
 	url = ../debathena-language-support.git
-[submodule "debathena/debathena-live"]
-	path = debathena/debathena-live
-	url = ../debathena-live.git
 [submodule "debathena/debathena-locker"]
 	path = debathena/debathena-locker
 	url = ../debathena-locker.git
