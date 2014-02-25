@@ -58,9 +58,6 @@
 [submodule "athena/libathdir"]
 	path = athena/libathdir
 	url = ../libathdir.git
-[submodule "athena/libhesiod"]
-	path = athena/libhesiod
-	url = ../libhesiod.git
 [submodule "athena/liblocker"]
 	path = athena/liblocker
 	url = ../liblocker.git
