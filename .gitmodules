@@ -235,9 +235,6 @@
 [submodule "debathena/debathena-maybe-apparmor"]
 	path = debathena/debathena-maybe-apparmor
 	url = ../debathena-maybe-apparmor.git
-[submodule "debathena/debathena-maybe-krb4-config"]
-	path = debathena/debathena-maybe-krb4-config
-	url = ../debathena-maybe-krb4-config.git
 [submodule "debathena/debathena-maybe-ubufox"]
 	path = debathena/debathena-maybe-ubufox
 	url = ../debathena-maybe-ubufox.git
