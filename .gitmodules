@@ -1,9 +1,6 @@
 [submodule "athena/aclocal"]
 	path = athena/aclocal
 	url = ../aclocal.git
-[submodule "athena/athdir"]
-	path = athena/athdir
-	url = ../athdir.git
 [submodule "athena/athinfo"]
 	path = athena/athinfo
 	url = ../athinfo.git
@@ -13,9 +10,6 @@
 [submodule "athena/athrun"]
 	path = athena/athrun
 	url = ../athrun.git
-[submodule "athena/attach"]
-	path = athena/attach
-	url = ../attach.git
 [submodule "athena/authwatch"]
 	path = athena/authwatch
 	url = ../authwatch.git
@@ -52,12 +46,6 @@
 [submodule "athena/libXj"]
 	path = athena/libXj
 	url = ../libXj.git
-[submodule "athena/libathdir"]
-	path = athena/libathdir
-	url = ../libathdir.git
-[submodule "athena/liblocker"]
-	path = athena/liblocker
-	url = ../liblocker.git
 [submodule "athena/libnss-afspag"]
 	path = athena/libnss-afspag
 	url = ../libnss-afspag.git
@@ -115,9 +103,6 @@
 [submodule "athena/python-moira"]
 	path = athena/python-moira
 	url = ../python-moira.git
-[submodule "athena/quota"]
-	path = athena/quota
-	url = ../quota.git
 [submodule "athena/saferm"]
 	path = athena/saferm
 	url = ../saferm.git
