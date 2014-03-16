@@ -442,3 +442,6 @@
 [submodule "athena/lert-compat"]
 	path = athena/lert-compat
 	url = ../lert-compat.git
+[submodule "third/libmail-expandaliases-perl"]
+	path = third/libmail-expandaliases-perl
+	url = ../libmail-expandaliases-perl.git
