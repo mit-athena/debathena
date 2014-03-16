@@ -49,9 +49,6 @@
 [submodule "athena/larvnet"]
 	path = athena/larvnet
 	url = ../larvnet.git
-[submodule "athena/lert"]
-	path = athena/lert
-	url = ../lert.git
 [submodule "athena/libXj"]
 	path = athena/libXj
 	url = ../libXj.git
@@ -457,3 +454,6 @@
 [submodule "athena/locker-support"]
 	path = athena/locker-support
 	url = ../locker-support.git
+[submodule "athena/lert-compat"]
+	path = athena/lert-compat
+	url = ../lert-compat.git
