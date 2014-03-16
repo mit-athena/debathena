@@ -311,7 +311,7 @@
 	path = debathena/gdm-config
 	url = ../gdm-config.git
 [submodule "debathena/getcluster"]
-	path = debathena/getcluster
+	path = athena/getcluster
 	url = ../getcluster.git
 [submodule "debathena/hesiod-config"]
 	path = debathena/hesiod-config
