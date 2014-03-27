@@ -442,3 +442,6 @@
 [submodule "third/libmail-expandaliases-perl"]
 	path = third/libmail-expandaliases-perl
 	url = ../libmail-expandaliases-perl.git
+[submodule "misc/build-system"]
+	path = misc/build-system
+	url = ../build-system.git
