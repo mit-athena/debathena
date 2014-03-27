@@ -187,9 +187,6 @@
 [submodule "debathena/debathena-common"]
 	path = misc/debathena-common
 	url = ../debathena-common.git
-[submodule "debathena/debathena-cups"]
-	path = debathena/debathena-cups
-	url = ../debathena-cups.git
 [submodule "debathena/debathena-debian-dev"]
 	path = debathena/debathena-debian-dev
 	url = ../debathena-debian-dev.git
