@@ -175,9 +175,6 @@
 [submodule "debathena/debathena-athena-libraries"]
 	path = debathena/debathena-athena-libraries
 	url = ../debathena-athena-libraries.git
-[submodule "debathena/debathena-build-depends"]
-	path = debathena/debathena-build-depends
-	url = ../debathena-build-depends.git
 [submodule "debathena/debathena-clients"]
 	path = debathena/debathena-clients
 	url = ../debathena-clients.git
