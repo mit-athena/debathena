@@ -442,3 +442,6 @@
 [submodule "misc/build-system"]
 	path = misc/build-system
 	url = ../build-system.git
+[submodule "athena/firefox-extension"]
+	path = athena/firefox-extension
+	url = ../firefox-extension.git
