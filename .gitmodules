@@ -445,3 +445,6 @@
 [submodule "athena/firefox-extension"]
 	path = athena/firefox-extension
 	url = ../firefox-extension.git
+[submodule "debathena/dconf-config"]
+	path = debathena/dconf-config
+	url = ../dconf-config.git
