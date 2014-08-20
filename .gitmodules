@@ -448,3 +448,6 @@
 [submodule "debathena/dconf-config"]
 	path = debathena/dconf-config
 	url = ../dconf-config.git
+[submodule "athena/account-repair"]
+	path = athena/account-repair
+	url = ../account-repair.git
