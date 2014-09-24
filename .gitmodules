@@ -451,3 +451,6 @@
 [submodule "athena/account-repair"]
 	path = athena/account-repair
 	url = ../account-repair.git
+[submodule "misc/installer"]
+	path = misc/installer
+	url = ../installer.git
