@@ -43,9 +43,6 @@
 [submodule "athena/larvnet"]
 	path = athena/larvnet
 	url = ../larvnet.git
-[submodule "athena/libXj"]
-	path = athena/libXj
-	url = ../libXj.git
 [submodule "athena/libnss-afspag"]
 	path = athena/libnss-afspag
 	url = ../libnss-afspag.git
