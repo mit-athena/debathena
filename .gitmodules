@@ -190,9 +190,6 @@
 [submodule "debathena/debathena-extra-software-nox"]
 	path = debathena/debathena-extra-software-nox
 	url = ../debathena-extra-software-nox.git
-[submodule "debathena/debathena-gdm"]
-	path = debathena/debathena-gdm
-	url = ../debathena-gdm.git
 [submodule "debathena/debathena-language-support"]
 	path = debathena/debathena-language-support
 	url = ../debathena-language-support.git
@@ -214,12 +211,6 @@
 [submodule "debathena/debathena-mit-automounter"]
 	path = debathena/debathena-mit-automounter
 	url = ../debathena-mit-automounter.git
-[submodule "debathena/debathena-ssh-client"]
-	path = debathena/debathena-ssh-client
-	url = ../debathena-ssh-client.git
-[submodule "debathena/debathena-ssh-server"]
-	path = debathena/debathena-ssh-server
-	url = ../debathena-ssh-server.git
 [submodule "debathena/debathena-standard"]
 	path = debathena/debathena-standard
 	url = ../debathena-standard.git
